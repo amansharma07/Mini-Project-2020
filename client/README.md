@@ -103,4 +103,4 @@ To test the app run the command `truffle test`. RPC server should be running to 
 
 | Developers                                             |                                                               |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
-| [Aman Sharma](https://github.com/amansharma07) | ![st]() |
+| [Aman Sharma](https://github.com/amansharma07)  |
