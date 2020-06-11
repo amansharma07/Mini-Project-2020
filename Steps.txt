@@ -1,0 +1,10 @@
+1. Run--> npm run ganache
+2. Run--> npm run contract-deploy
+3. In case of error, update Network ID in .env file
+4. Run--> npm start
+5. Run--> npm start in client directory
+6. To verify in console,
+		a. mongo
+		b. use certification
+		c. show collections
+		d. db.<collection name>.find().pretty()
