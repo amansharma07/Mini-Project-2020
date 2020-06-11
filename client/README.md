@@ -1,4 +1,4 @@
-# CertoSol-Certificate Generation and Validation Using Blockchain
+# CertoSol - Blockchain based Certificate Validation
 
 > Built using Ethereum on local blockchain setup and deployed on Rinkeby test network.
 
