@@ -16,8 +16,8 @@
     "ganache": "ganache-cli -p 8545 &",
     "heroku-postbuild": "npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Saurabh Thakur",
-  "license": "MIT",
+  "author": "Aman Sharma",
+  "license": "",
   "devDependencies": {
     "babel-cli": "^6.22.2",
     "babel-core": "^6.22.1",
